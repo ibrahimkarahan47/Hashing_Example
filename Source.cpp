@@ -1,8 +1,4 @@
-/*Name: Ýbrahim
-Surname: Karahan
-Nu: 150160550
-Debugging with SSH: g++ Source.cpp -std=c++11
-*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
